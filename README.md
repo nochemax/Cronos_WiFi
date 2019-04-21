@@ -1,4 +1,4 @@
-# Cronos_WiFi
+# Cronos_WiFi  Smp_A
 Hack pin wps basado en bully
 
 
