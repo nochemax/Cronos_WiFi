@@ -14,7 +14,7 @@ UBUNTU, Debian... 1 | Kali linux 2
 
 install Cronos_WiFi
 
-git clone && cd CronoS_WiFi && chmod +x  CronoS_WiFi.sh && ./CronoS_WiFi.sh
+# git clone https://github.com/nochemax/Cronos_WiFi.git && cd CronoS_WiFi && chmod +x CronoS_WiFi.sh && ./CronoS_WiFi.sh
 
 Efectuar ataques sobre router con LAB,PCB
 
